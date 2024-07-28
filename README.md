@@ -3,7 +3,7 @@
 I’m @BINDU PRIYA M, and welcome to my GitHub profile!
 
 - 👀 I’m interested in developing innovative and efficient software solutions.
-- 🌱 I’m currently learning advanced JavaScript frameworks and blockchain technology.
+- 🌱 I’m currently learning MERN STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on open-source blockchain projects and web development.
 - 📫 How to reach me: You can email me at priyabindum083@gmail.com 
 - 😄 Pronouns: She/Her
